@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Juan Pérez",
+    "Edad": 30,
+    "Email": "juan.perez@ejemplo.com",
+    "Ciudad": "Madrid"
+  },
+  {
+    "Id": 2,
+    "Nombre": "María García",
+    "Edad": 25,
+    "Email": "maria.garcia@ejemplo.com",
+    "Ciudad": "Barcelona"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Carlos López",
+    "Edad": 35,
+    "Email": "carlos.lopez@ejemplo.com",
+    "Ciudad": "Valencia"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Ana Martínez",
+    "Edad": 28,
+    "Email": "ana.martinez@ejemplo.com",
+    "Ciudad": "Sevilla"
+  }
+]
